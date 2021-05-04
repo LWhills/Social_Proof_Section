@@ -5,9 +5,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+html,
+body {
+  overflow-x: hidden;
+}
 /* Link */
 a {
   text-decoration: none;
+  color: rgb(185, 166, 126);
 }
 a:hover {
   color: rgb(192, 115, 70);
