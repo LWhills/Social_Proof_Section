@@ -77,7 +77,7 @@ h1 {
 }
 h1 {
   width: 80%;
-  margin: 0 auto 1em auto;
+  margin: 0 auto 0.5em auto;
 }
 .rating-item {
   padding: 1em 2em 2em 2em;
@@ -144,13 +144,14 @@ h1 {
 }
 @media only screen and (min-width: 1097px) {
   body {
-    height: 100vh;
+    height: 100%;
     display: grid;
     place-items: center;
   }
   .split-container {
     width: 80%;
     max-width: 1152px;
+    padding: 10em 0em;
   }
   h1 {
     margin-left: 0;
@@ -179,23 +180,27 @@ h1 {
   }
   .main-content {
     text-align: left;
-    max-width: 445px;
+    max-width: 480px;
   }
   .main-rating {
     margin-left: auto;
+    flex-grow: 1;
   }
   .rating-item {
     display: flex;
     align-items: center;
     gap: 3em;
     align-self: flex-end;
-    padding: 1em 6em;
+    padding: 1em 4em;
   }
   .rating-item:nth-of-type(1) {
-    margin-right: 10em;
+    align-self: flex-start;
   }
   .rating-item:nth-of-type(2) {
-    margin-right: 5em;
+    align-self: center;
+  }
+  .rating-item:nth-of-type(3) {
+    align-self: flex-end;
   }
   .aside-square:nth-of-type(1) {
     margin-bottom: 3em;
