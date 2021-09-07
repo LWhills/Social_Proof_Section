@@ -1,4 +1,4 @@
-# 3-Column-Preview
+# Social Proof Section
 
 Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/social-proof-section-D8IuPngQU)
 
