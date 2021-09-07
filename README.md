@@ -1,4 +1,4 @@
-# Social Proof Section
+# Social proof section
 
 Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/social-proof-section-D8IuPngQU)
 
