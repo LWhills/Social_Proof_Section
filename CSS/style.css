@@ -127,14 +127,14 @@ h1 {
 .img-top {
   width: 374px;
   height: 232px;
-  background-image: url(../Images/bg-pattern-top-mobile.svg);
+  background-image: url(./Images/bg-pattern-top-mobile.svg);
   top: 0;
   left: 0;
 }
 .img-bottom {
   width: 1085px;
   height: 673px;
-  background-image: url(../Images/bg-pattern-bottom-desktop.svg);
+  background-image: url(./Images/bg-pattern-bottom-desktop.svg);
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
@@ -165,7 +165,7 @@ h1 {
   .img-top {
     width: 584px;
     height: 362px;
-    background-image: url(../Images/bg-pattern-top-desktop.svg);
+    background-image: url(./Images/bg-pattern-top-desktop.svg);
   }
   .aside-square,
   .aside-square:nth-of-type(3) {
