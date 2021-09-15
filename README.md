@@ -5,7 +5,7 @@ Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/soci
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/60406970/132394679-f9f0b7d5-a86c-4326-a9a6-847a892a6382.png)
+![App Screenshot](https://user-images.githubusercontent.com/60406970/133469543-54350c23-1616-42b1-bd27-b58208731d92.png)
 
   
 ## Demo
