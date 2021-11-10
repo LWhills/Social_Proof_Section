@@ -10,6 +10,6 @@ Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/soci
   
 ## Demo
 
-https://loganwillaumez.github.io/social-proof-section/
+https://loganwillaumez-frontendmentor.github.io/003-social-proof-section/
 
   
